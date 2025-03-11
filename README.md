@@ -12,8 +12,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devHarshShah&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHarshShah&layout=compact&theme=radical" alt="Harsh's Top Languages" height="170em" />
+  <img src="https://github-readme-stats-iota-ecru-37.vercel.app/api?username=devHarshShah&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" height="170em" />
+  <img src="https://github-readme-stats-iota-ecru-37.vercel.app/api/top-langs/?username=devHarshShah&layout=compact&theme=radical" alt="Harsh's Top Languages" height="170em" />
 </div>
 
 ### 🔥 Streak Stats
@@ -40,10 +40,10 @@
 
 ### 📌 Pinned Repositories
 
-<a href="https://github.com/devHarshShah/awesome-project">
+<a href="https://github.com/devHarshShah/ResearchLens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devHarshShah&repo=awesome-project&theme=radical" />
 </a>
-<a href="https://github.com/devHarshShah/another-cool-project">
+<a href="https://github.com/devHarshShah/myperro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devHarshShah&repo=another-cool-project&theme=radical" />
 </a>
 
