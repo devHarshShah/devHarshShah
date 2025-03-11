@@ -18,7 +18,7 @@
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devHarshShah&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats-six-kohl.vercel.app?user=devHarshShah&theme=dark)](https://git.io/streak-stats)
 
 ---
 
