@@ -41,10 +41,10 @@
 ### 📌 Pinned Repositories
 
 <a href="https://github.com/devHarshShah/ResearchLens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devHarshShah&repo=awesome-project&theme=radical" />
+  <img align="center" src="https://github-readme-stats-iota-ecru-37.vercel.app/api/pin/?username=devHarshShah&repo=ResearchLens&theme=radical" />
 </a>
 <a href="https://github.com/devHarshShah/myperro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devHarshShah&repo=another-cool-project&theme=radical" />
+  <img align="center" src="https://github-readme-stats-iota-ecru-37.vercel.app/api/pin/?username=devHarshShah&repo=myperro&theme=radical" />
 </a>
 
 ---
