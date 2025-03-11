@@ -18,7 +18,9 @@
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](http://github-readme-streak-stats-six-kohl.vercel.app?user=devHarshShah&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <img src="http://github-readme-streak-stats-six-kohl.vercel.app?user=devHarshShah&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -40,12 +42,14 @@
 
 ### 📌 Pinned Repositories
 
-<a href="https://github.com/devHarshShah/ResearchLens">
-  <img align="center" src="https://github-readme-stats-iota-ecru-37.vercel.app/api/pin/?username=devHarshShah&repo=ResearchLens&theme=radical" />
-</a>
-<a href="https://github.com/devHarshShah/myperro">
-  <img align="center" src="https://github-readme-stats-iota-ecru-37.vercel.app/api/pin/?username=devHarshShah&repo=myperro&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/devHarshShah/ResearchLens">
+    <img align="center" src="https://github-readme-stats-iota-ecru-37.vercel.app/api/pin/?username=devHarshShah&repo=ResearchLens&theme=radical" height="120em" />
+  </a>
+  <a href="https://github.com/devHarshShah/myperro">
+    <img align="center" src="https://github-readme-stats-iota-ecru-37.vercel.app/api/pin/?username=devHarshShah&repo=myperro&theme=radical" height="120em" />
+  </a>
+</div>
 
 ---
 
